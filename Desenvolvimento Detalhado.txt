@@ -1,0 +1,39 @@
+Projeto: 
+Utilizar uma IHM DWIN com um ESP32.
+Início Projeto: 23/10/2024
+Fim Projeto:    26/10/2024
+
+Versão 1.0 deve ser simples. 
+Acionar:
+Led 01 - Liga e Desliga Led por 1 botão na IHM
+		 O Botão deve mostrar seu status
+
+Comunicação entre ESP32 e HMI será Serial RS232
+Seguir uma idéia ágil para a entrega do produto final
+O projeto deve ser construído e testado.
+
+
+Backlog:
+
+
+
+Fazer:
+
+
+
+Fazendo:
+
+
+
+Feito:
+- Separar o Hardware Necessário
+- Garantir o funcionamento básico do ESP32.
+- Instalar o software de comunicação com a IHM (Com base no software do forno, ja consigo ler os sinais na serial)
+- Modificar o Hardware para comunicação
+- Limpar o software base de comunicação com a IHM (Led Acendendo com codigo mais enxuto)
+- Criar o acionamento da Output de acordo com os sinais recebidos da IHM
+- Criar desenhos Tela Básica com um botão liga e outro Desliga
+- Criar Ligação da saída com o Relé.(Led)
+- Aprender a a fazer o básico na tela somente o botão.
+- Desenvolver e o software da IHM
+- Testar o Funcionamento
